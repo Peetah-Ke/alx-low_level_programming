@@ -5,6 +5,8 @@
  *
  * Description: Prints the alphabet in lowercase and in the uppercase
  * followed by a new line
+ *
+ * Return: 0 Always
  */
 
 int main(void)
