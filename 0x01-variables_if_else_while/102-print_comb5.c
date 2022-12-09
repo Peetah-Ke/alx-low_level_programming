@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
- * main: Entry point
- * Desc: prints all possible
+ * main - Entry point
+ * Description: prints all possible
  * combination of two two-digit numbers
  *
  * Return: Always 0
