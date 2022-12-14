@@ -3,6 +3,8 @@
 /**
  * print alphabet - entry point
  *
+ * print_alphabet: print all alphabet in lowercase
+ *
  * Return: 0 (Success)
  */
 
