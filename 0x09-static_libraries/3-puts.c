@@ -1,5 +1,4 @@
 #include "main.h"
-void _puts(char *str)
 #include<stdio.h>
 
 /**
@@ -7,6 +6,8 @@ void _puts(char *str)
  *
  * Return: Always 0 (Success)
  */
+
+void _puts(char *str)
 
 int main(void)
 {
