@@ -4,7 +4,7 @@ void _puts(char *str)
 
 /**
  * main - Entry point
- * _puts: describs puts function
+ *
  * Return: Always 0 (Success)
  */
 
